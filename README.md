@@ -10,13 +10,9 @@ This is implementation of the HBPNet in tensorflow-slim. The origin paper is "[H
 
 This model requires data in TF-record format. You can download the aircraft datasets, birds datasets .
 
-
-
 ##Pre-trained Models
 
 The fine tuned model is available in google drive: aircraft, birds.
-
-
 
 ## Train and eval
 
