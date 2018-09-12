@@ -4,7 +4,7 @@ This is implementation of the HBPNet in tensorflow-slim. The origin paper is "[H
 
 ## Network structure
 
-~
+![HBPNet](https://github.com/Jowekk/HBPNet/blob/master/HBPNet.png)
 
 ##The datasets
 
@@ -48,9 +48,13 @@ Using the jupyter notebook to run
 jupyter notebook show_result.ipynb
 ~~~
 
+For example, the bilinear_p2 feature maps
 
+![041](https://github.com/Jowekk/HBPNet/blob/master/images/041.png)
 
+![041](https://github.com/Jowekk/HBPNet/blob/master/images/042.png)
 
+![041](https://github.com/Jowekk/HBPNet/blob/master/images/043.png)
 
 
 
