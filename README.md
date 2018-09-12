@@ -6,6 +6,8 @@ This is implementation of the HBPNet in tensorflow-slim. The origin paper is "[H
 
 ![HBPNet](https://github.com/Jowekk/HBPNet/blob/master/HBPNet.png)
 
+caffe
+
 ##The datasets
 
 This model requires data in TF-record format. You can download the aircraft datasets, birds datasets .
